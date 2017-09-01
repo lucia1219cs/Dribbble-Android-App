@@ -1,3 +1,5 @@
+# Dribbble Android App
+
 An Android application for [Dribbble](https://dribbble.com/).
 
 ## Highlights
@@ -6,10 +8,12 @@ An Android application for [Dribbble](https://dribbble.com/).
 + Usage of several awesome libraries: [Okhttp](https://github.com/square/okhttp) for HTTP requests, [Fresco](https://github.com/facebook/fresco) for image management, [Gson](https://github.com/google/gson) for serialization & deserialization, [Butterknife](https://github.com/JakeWharton/butterknife) for binding views
 
 ## Screenshots
-
-| Main | Navigation | Shot | Bucket |
-|:----:|:----:|:----:|:-------:|
-|![](images/ShotList.png) | ![](images/NavigationDrawer.png) | ![](images/Shot.png)| ![](images/BucketList.png)
+<p>
+  <img src="images/ShotList.png" width="212"/> 
+  <img src="images/NavigationDrawer.png" width="212"/> 
+  <img src="images/Shot.png" width="212"/> 
+  <img src="images/BucketList.png" width="212"/>
+</p>
 
 ### Build
 - clone this repo `git clone https://github.com/lucia1219cs/Dribbble-Android-App.git`
